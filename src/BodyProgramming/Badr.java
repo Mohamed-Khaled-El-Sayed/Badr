@@ -1,3 +1,5 @@
+package BodyProgramming;
+
 public class Badr {
     public static void main(String[] args) {
         /********************************
@@ -10,10 +12,10 @@ public class Badr {
          *******************************/
         /********************************
          * How to name a variable:`
-         * 1 - No spaces ( X String first name = "Badr" X)
-         * 2 - NO special chars except '_' (X String first*-name = "Badr" X)
+         * 1 - No spaces ( X String first name = "BodyProgramming.Badr" X)
+         * 2 - NO special chars except '_' (X String first*-name = "BodyProgramming.Badr" X)
          * 3 - In Java it's recommended to use Camel Case style [start with capital char from the second word]
-         * ex : String firstName = "Badr"
+         * ex : String firstName = "BodyProgramming.Badr"
          * If the name is an abbreviation, so all capitals
          * ex : USB, UPS, DSL, LAN, WAN, USA
          *******************************/
