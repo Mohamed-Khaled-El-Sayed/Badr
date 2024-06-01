@@ -31,5 +31,6 @@ public class Badr {
         System.out.println(p);
         double q = 1.56642538343;
         System.out.println(q);
+        int a = 7;
     }
 }
